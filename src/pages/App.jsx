@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import "../styles/App.css";
-import { use } from "react";
 import Input from "../components/Input";
 import RadioGroup from "../components/RadioGroup";
 import Button from "../components/Button";

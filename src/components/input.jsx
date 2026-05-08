@@ -1,4 +1,4 @@
-function Input({ text, label, name, value, onChange, placeholder, type = "text" }) {
+function Input({ label, name, value, onChange, placeholder, type = "text" }) {
   return (
     <>
       <h3>{label}</h3>
